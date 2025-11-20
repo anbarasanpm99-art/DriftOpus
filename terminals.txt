@@ -1,0 +1,3 @@
+conda create -n driftopus python=3.11
+conda activate driftopus
+pip install -r packages.txt
